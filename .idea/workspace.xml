@@ -5,16 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eee836f-4b42-4b6d-be7b-d8362dddf69c" name="Changes" comment="Upload File Started">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PemogramanKotlinLanjutan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LK_lingkrn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PeriksaKondisiNull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akar_kuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/argumen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2Dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayMultidimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayPrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayStandar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/break_conteniu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ekspresiTunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elvis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsiMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsiNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsitanpakembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kalkulator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kalkulator_when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/label.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nullsafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator&amp;nullsafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pair.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/percabangan1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/range.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/return.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/safeCalls.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileLop_klkor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_doWhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array1_.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayOf.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,27 +58,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nadiyanur"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nadiyanur&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nadiyanur/Pemograman_Kotlin_Lanjutan.git",
-    "accountId": "5b737b58-b4d3-471e-a40d-bb30da4ec5f0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nadiyanur/Pemograman_Kotlin_Lanjutan.git&quot;,
+    &quot;accountId&quot;: &quot;5b737b58-b4d3-471e-a40d-bb30da4ec5f0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2lpJhywW1e2KIQzl8FjabM7gZOJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,16 +88,87 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Kotlin.Akar_kuadratKt.executor": "Run",
+    "Kotlin.ArgumenKt.executor": "Run",
     "Kotlin.Array1Kt.executor": "Run",
+    "Kotlin.Array2DimensiKt.executor": "Run",
+    "Kotlin.Array2Kt.executor": "Run",
+    "Kotlin.Array3Kt.executor": "Run",
+    "Kotlin.ArrayListOfKt.executor": "Run",
+    "Kotlin.ArrayMethodKt.executor": "Run",
+    "Kotlin.ArrayMultidimensiKt.executor": "Run",
+    "Kotlin.Break_conteniuKt.executor": "Run",
+    "Kotlin.CollectionsKt.executor": "Run",
+    "Kotlin.EkspresiTunggalKt.executor": "Run",
+    "Kotlin.ElvisKt.executor": "Run",
+    "Kotlin.ExceptionHandlingKt.executor": "Run",
+    "Kotlin.ForLoop2Kt.executor": "Run",
+    "Kotlin.ForLoop3Kt.executor": "Run",
+    "Kotlin.ForLoopKt.executor": "Run",
+    "Kotlin.FungsiMathKt.executor": "Run",
+    "Kotlin.FungsiNilaiKembaliKt.executor": "Run",
+    "Kotlin.FungsitanpakembaliKt.executor": "Run",
+    "Kotlin.KalkulatorKt.executor": "Run",
+    "Kotlin.Kalkulator_whenKt.executor": "Run",
+    "Kotlin.LK_lingkrnKt.executor": "Run",
+    "Kotlin.LabelKt.executor": "Run",
+    "Kotlin.LambdaKt.executor": "Run",
+    "Kotlin.ListOfKt.executor": "Run",
+    "Kotlin.MapKt.executor": "Run",
+    "Kotlin.MutableListOfKt.executor": "Run",
+    "Kotlin.NullsafetyKt.executor": "Run",
+    "Kotlin.OperatorKt.executor": "Run",
+    "Kotlin.Operator_nullsafetyKt.executor": "Run",
+    "Kotlin.PairKt.executor": "Run",
+    "Kotlin.Percabangan2Kt.executor": "Run",
+    "Kotlin.PercabanganKt.executor": "Run",
+    "Kotlin.PeriksaKondisiNullKt.executor": "Run",
+    "Kotlin.RangeKt.executor": "Run",
+    "Kotlin.ReturnKt.executor": "Run",
+    "Kotlin.SafeCallsKt.executor": "Run",
+    "Kotlin.SetKt.executor": "Run",
+    "Kotlin.WhenKt.executor": "Run",
+    "Kotlin.WhileLop_klkorKt.executor": "Run",
+    "Kotlin.While_doWhileKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Array1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array1Kt" />
+  <component name="RunManager" selected="Kotlin.LambdaKt">
+    <configuration name="ArgumenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumenKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EkspresiTunggalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EkspresiTunggalKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FungsiNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiNilaiKembaliKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairKt" />
       <module name="PemogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,7 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Array1Kt" />
+        <item itemvalue="Kotlin.LambdaKt" />
+        <item itemvalue="Kotlin.ArgumenKt" />
+        <item itemvalue="Kotlin.EkspresiTunggalKt" />
+        <item itemvalue="Kotlin.PairKt" />
+        <item itemvalue="Kotlin.FungsiNilaiKembaliKt" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +209,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725872167863</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload File Started">
+      <option name="closed" value="true" />
+      <created>1725872229548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872229548</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upload File Started">
+      <option name="closed" value="true" />
+      <created>1725872306334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872306334</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload File Started">
+      <option name="closed" value="true" />
+      <created>1725872349533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872349533</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,7 +244,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/array1.kt</url>
+          <url>file://$PROJECT_DIR$/src/arrayOf.kt</url>
           <properties method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

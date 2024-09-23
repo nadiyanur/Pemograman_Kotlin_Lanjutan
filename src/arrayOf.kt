@@ -1,3 +1,4 @@
+//Nor nadiya
 fun main(args: Array<String>) {
     //Array
     var arrA = arrayOf<Int>()
@@ -10,6 +11,6 @@ fun main(args: Array<String>) {
     }
 
     for (i in arrB){
-        print("$i")
+        print("$i ")
     }
 }
